@@ -5,4 +5,4 @@ const namePrint = (name) => {
 };
 
 const res = namePrint("Sabdar");
-console.log(res);
+console.log(res);  
